@@ -1,7 +1,7 @@
 ﻿# Robo-conversor-de-temperatura
- 
 <h1>Robot converter temperature </h1>
-
+ 
+> Status: Finished 🖐️
 
  <p>Robo feito com Pupeteer e Readline-sync , basicamente o usuario pelo cmd escolhe
  os tipos de temperatura e o valor da conversão.Entao os valores aparecem no cmd</p>
@@ -12,7 +12,7 @@
 ## ![Screenshot_1](https://user-images.githubusercontent.com/87443746/129984087-0f8e8ce9-a03b-4791-97b7-1c52fd78159c.png)
 
  
- ⚠️ How to use the project - Como executar o projeto :
+ ⚠️  How to use the project - Como executar o projeto :
  
  1. No cmd de um npm install // In cmd put "npm install" for install the dependencies
  2. Depois coloque node index.js // After type it node index.js

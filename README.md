@@ -9,6 +9,7 @@
  <p>Made robot with Pupeteer and Readline-sync , basically the user by cmd select the types 
  of temperature and conversion value.So the values will appear right after.</p>
  
+![img](https://imgur.com/X1InR3a)
  
  ⚠️ How to use the project - Como executar o projeto :
  

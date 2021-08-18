@@ -7,10 +7,7 @@
  os tipos de temperatura e o valor da conversão e os valores aparecem no cmd</p>
  
  
- 
- 
- 
- How to use the project - Como executar o projeto :
+ ⚠️ How to use the project - Como executar o projeto :
  
  1. No cmd de um npm install // In cmd put "npm install" for install the dependencies
  2. Depois coloque node index.js // After type it node index.js

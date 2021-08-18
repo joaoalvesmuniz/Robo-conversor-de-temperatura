@@ -4,7 +4,10 @@
 
 
  <p>Robo feito com Pupeteer e Readline-sync , basicamente o usuario pelo cmd escolhe
- os tipos de temperatura e o valor da conversão e os valores aparecem no cmd</p>
+ os tipos de temperatura e o valor da conversão.Entao os valores aparecem no cmd</p>
+ 
+ <p>Made robot with Pupeteer and Readline-sync , basically the user by cmd select the types 
+ of temperature and conversion value.So the values will appear right after.</p>
  
  
  ⚠️ How to use the project - Como executar o projeto :
